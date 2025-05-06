@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I've been learning to code for 2 years, after switching careers. I started with HTML, but then I met JavaScript and it was love at first site. I love to design and build interactive web apps.
+I’m a mobile app developer based in Lagos, Nigeria, with 2+ years of experience building interactive and user-friendly applications. I started my journey in web development but have since specialized in creating mobile apps using Flutter.
 
-*   🌍  I'm based in Lagos, Nigeria
-*   ✉️  You can contact me at [adelekeolasope@gmail.com](mailto:adelekeolasope@gmail.com)
-*   🚀  I'm currently working on [eStudiez](http://adelaykay.github.io/estudiez)
-*   🧠  I'm learning the React framework
-*   🤝  I'm open to collaborating on interesting projects.
+*   🌍  Based in Lagos, Nigeria
+*   ✉️  Contact: [adelekeolasope@gmail.com](mailto:adelekeolasope@gmail.com)
+*   🚀  Currently working on [Empyreal Keys](http://empyrealworks.com/empyreal-keys)
+*   🧠  Continuously learning and exploring new tools for mobile app development
+*   🤝  Open to collaborating on innovative app projects
 
 ### Skills 
 <p align="left">
