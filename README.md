@@ -8,7 +8,7 @@ I’m a mobile app developer based in Lagos, Nigeria, with 2+ years of experienc
 
 *   🌍  Based in Lagos, Nigeria
 *   ✉️  Contact: [adelekeolasope@gmail.com](mailto:adelekeolasope@gmail.com)
-*   🚀  Currently working on [Empyreal Keys](http://empyrealworks.com/empyreal-keys)
+*   🚀  Currently working on [Empyreal Keys](http://empyrealworks.com/projects/empyreal-keys)
 *   🧠  Continuously learning and exploring new tools for mobile app development
 *   🤝  Open to collaborating on innovative app projects
 
