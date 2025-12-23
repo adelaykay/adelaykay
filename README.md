@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I’m a mobile app developer based in Lagos, Nigeria, with 2+ years of experience building interactive and user-friendly applications. I started my journey in web development but have since specialized in creating mobile apps using Flutter.
+I’m a mobile app developer based in Lagos, Nigeria, with 3+ years of experience building interactive and user-friendly applications. I started my journey in web development but have since specialized in creating mobile apps using Flutter.
 
 *   🌍  Based in Lagos, Nigeria
 *   ✉️  Contact: [adelekeolasope@gmail.com](mailto:adelekeolasope@gmail.com)
 *   🚀  Currently working on [Empyreal Keys](http://empyrealworks.com/projects/empyreal-keys)
-*   🧠  Continuously learning and exploring new tools for mobile app development
-*   🤝  Open to collaborating on innovative app projects
+*   🧠  Continuously learning and exploring new tools for software development
+*   🤝  Open to collaborating on innovative projects
 
 ### Skills 
 <p align="left">
