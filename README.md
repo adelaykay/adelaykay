@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adeleke Olasope
 =======================================================================================================================================
 
-Web Developer and Designer
---------------------------
+### Full-Stack & Mobile Software Engineer | Founder of Empyreal Works
 
-I’m a software developer based in Lagos, Nigeria, with 3+ years of experience building interactive and user-friendly applications. I started my journey in web development but have since specialized in creating mobile apps using Flutter.
+I’m a software developer based in Lagos, Nigeria, specializing in building seamless, cross-platform mobile experiences and AI-powered web applications. I transitioned from traditional web design into deep mobile architecture, and I focus on crafting products that solve real problems—from document automation to low-latency audio applications.
 
-*   🌍  Based in Lagos, Nigeria
-*   ✉️  Contact: [adelekeolasope@gmail.com](mailto:adelekeolasope@gmail.com)
-*   🚀  Currently working on [Empyreal Keys](http://empyrealworks.com/projects/empyreal-keys)
-*   🧠  Continuously learning and exploring new tools for software development
-*   🤝  Open to collaborating on innovative projects
+### 🛠️ What I'm working on
+* 🚀 **Empyreal Keys:** A sleek, ad-free pocket piano app featuring realistic multi-touch playback and built-in practice tools.
+* 📦 **Open Source:** Creator and maintainer of **`flutter_music_notation`** (professional SMuFL-compliant sheet music rendering) and **`flutter_midi_16kb`** (lightweight offline synthesizer).
+* ✨ **Product Ecosystem:** Actively building and scaling applications like **Flixell** (social movie discovery) and **BizDocx** (AI document generation).
+* 💼 **Availability:** Open to remote, contract-based freelance opportunities and collaborating on innovative tech.
 
 ### Skills 
 <p align="left">
