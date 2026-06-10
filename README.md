@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I’m a software developer based in Lagos, Nigeria, specializing in building seamless, cross-platform mobile experiences and AI-powered web applications. I transitioned from traditional web design into deep mobile architecture, and I focus on crafting products that solve real problems—from document automation to low-latency audio applications.
 
 ### 🛠️ What I'm working on
-* 🚀 **Empyreal Keys:** A sleek, ad-free pocket piano app featuring realistic multi-touch playback and built-in practice tools.
+* 🚀 <a href="https://github.com/adelaykay/resumate">**Resumate:**</a> AI-driven resume creation and tailoring tool. Feed it a job description and get a perfectly matched CV instantly.
 * 📦 **Open Source:** Creator and maintainer of **`flutter_music_notation`** (professional SMuFL-compliant sheet music rendering) and **`flutter_midi_16kb`** (lightweight offline synthesizer).
-* ✨ **Product Ecosystem:** Actively building and scaling applications like **Flixell** (social movie discovery) and **BizDocx** (AI document generation).
+* ✨ **Product Ecosystem:** Actively building and scaling applications like **Flixel** (social movie discovery) and **BizDocx** (AI document generation).
 * 💼 **Availability:** Open to remote, contract-based freelance opportunities and collaborating on innovative tech.
 
 ### Skills 
